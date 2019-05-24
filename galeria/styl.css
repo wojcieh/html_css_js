@@ -1,0 +1,19 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	
+	
+}
+
+
+#miniatury img {
+	width: 200px;
+	margin: -2px;
+	
+}
+
+
+#duzy img {
+	width: 600px;
+}
